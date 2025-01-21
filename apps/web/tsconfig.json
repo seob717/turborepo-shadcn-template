@@ -11,8 +11,7 @@
         "name": "next"
       }
     ],
-    "moduleResolution": "Node",
-    "preserveSymlinks": true
+    "moduleResolution": "bundler",
   },
   "include": [
     "**/*.ts",
